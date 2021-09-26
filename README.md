@@ -4,6 +4,7 @@ hi, i'm Camilo Bolaños Villarroel, a passionate self-taught machine learning de
 
 I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 <br>
+
 <a href="https://discord.gg/KerasLion">
   <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
