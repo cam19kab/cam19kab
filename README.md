@@ -2,8 +2,9 @@
 <br />
 hi, i'm Camilo Bolaños Villarroel, a passionate self-taught machine learning developer and a Mechatronic engineer from Bolivia. I’m interested in Robotics and Machine Learning. i take great care in the experience, architecture, and code quality of the things I build.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-<a href="https://discord.gg/">
+I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+<br>
+<a href="https://discord.gg/KerasLion#2241">
   <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/camilobit">
