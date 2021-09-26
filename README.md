@@ -22,13 +22,7 @@
 - 💼 any freelance work? do reach,[email](mailto:cam19kab@gmail.com:) <br>
 - 💬 ask me about anything, i am happy to help;
 <br>
-**languages and tools:**  
-
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-
-
-
-<h3>Things I code with</h3>
+<h2>languages and tools:</h2>  
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
@@ -41,7 +35,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
- <img alt="STADISTIC" src="https://github-readme-stats.vercel.app/api/top-langs/?username={cam19kab}&theme=blue-green" />
+ <img alt="STADISTIC" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cam19kab&theme=blue-green" />
 
 <!---
 cam19kab/cam19kab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
