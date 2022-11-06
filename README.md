@@ -35,8 +35,6 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
- <img alt="STADISTIC" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cam19kab&theme=blue-green" />
-
 <!---
 cam19kab/cam19kab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
