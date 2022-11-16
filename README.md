@@ -17,9 +17,8 @@
 </a>
 <br>
 <h3>💼 Any freelance work? Did you need design, analize, train and test some AI MODEL (Deep Learning, Machine Learning)
- <a href="mailto:cam19kab@gmail.com"></a>
 💬 Ask me about anything</h3>
-  
+<a href="mailto:cam19kab@gmail.com"></a>  
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <br>
 <h2>languages and tools:</h2>  
