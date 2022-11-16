@@ -6,7 +6,6 @@
 
 <p>I'm also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</p>
 <br>
-
 <a href="https://discord.gg/KerasLion">
   <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -16,10 +15,12 @@
 <a href="https://www.linkedin.com/in/camilo-bol-vil/">
   <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<br>
 <h3>💼 Any freelance work? Did you need design, analize, train and test some AI MODEL <br>
 (Deep Learning, Machine Learning)
-Do reach, [email](mailto:cam19kab@gmail.com:)<br>
-💬 Ask me about anything<\h3>
+Do reach,[email](mailto:cam19kab@gmail.com:)
+💬 Ask me about anything</h3>
+  
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <br>
 <h2>languages and tools:</h2>  
