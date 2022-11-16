@@ -16,9 +16,8 @@
   <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br>
-<h3>💼 Any freelance work? Did you need design, analize, train and test some AI MODEL <br>
-(Deep Learning, Machine Learning)
-Do reach,[email](mailto:cam19kab@gmail.com:)
+<h3>💼 Any freelance work? Did you need design, analize, train and test some AI MODEL (Deep Learning, Machine Learning)
+[email](mailto:cam19kab@gmail.com:)
 💬 Ask me about anything</h3>
   
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
