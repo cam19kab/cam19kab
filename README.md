@@ -1,6 +1,6 @@
 ### Welcome to my Account <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br />
-<p>hi, I'm Camilo Bolaños Villarroel, a passionate self-taught machine learning developer and a Mechatronic engineer.</p>
+<p>Hello, I'm Camilo Bolaños Villarroel, a passionate self-taught machine learning developer and a Mechatronic engineer.</p>
 <p>I`m from <img src="https://img.icons8.com/color/48/000000/bolivia.png" width="13"/> <b>Bolivia</b>, currently living in <img src="https://img.icons8.com/color/48/000000/spain.png" width="13"/> <b>Spain</b>. </p>
 <p>I’m interested in Robotics and Machine Learning. i take great care in the experience, architecture, and code quality of the things I build.</p>
 
@@ -13,15 +13,18 @@
 <a href="https://twitter.com/camilobit">
   <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/camilo-bolanos-v/">
+<a href="https://www.linkedin.com/in/camilo-bol-vil/">
   <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   <br>
   
-- 💼 any freelance work? do reach,[email](mailto:cam19kab@gmail.com:) <br>
-- 💬 ask me about anything, i am happy to help;
-<br>
+- 💼 Any freelance work? <br>
+Did you need design, analize, train and test<br>
+some AI MODEL (Deep Learning, Machine Learning)<br>
+Do reach,[email](mailto:cam19kab@gmail.com:)<br>
+- 💬 Ask me about anything, <br>
+
 <h2>languages and tools:</h2>  
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
